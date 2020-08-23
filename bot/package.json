@@ -1,5 +1,5 @@
 {
-	"name": "telegram_bot_node",
+	"name": "telegram-bot-node",
 	"version": "1.0.0",
 	"description": "Crawler and webhooks for telegram bot",
 	"repository": {
