@@ -2,6 +2,10 @@
 	"name": "telegram_bot_node",
 	"version": "1.0.0",
 	"description": "Crawler and webhooks for telegram bot",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/vitgusmao/telegram-tracking-bot.git"
+	},
 	"main": "src/index.js",
 	"scripts": {
 		"start": "node src/index.js",
