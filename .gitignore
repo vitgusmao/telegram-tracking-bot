@@ -2,4 +2,4 @@
 .python-version
 .env
 
-node-modules/**/
+bot/node_modules/
