@@ -2,4 +2,7 @@
 .python-version
 .env
 
-bot/node_modules/
+telegram-node-bot/node_modules/
+
+.idea/
+telegram-node-bot/.vercel/
